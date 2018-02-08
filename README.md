@@ -1,2 +1,2 @@
 # ngScaffolding
-Tools and setup for ngScaffolding
+ngScaffolding - Command and control Files

@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "..\\core"
+		},
+		{
+			"path": "..\\host"
+		},
+		{
+			"path": "..\\inputbuilder"
+		},
+		{
+			"path": "..\\demoapp"
+		},
+		{
+			"path": "..\\aspnet"
+		},
+		{
+			"path": "..\\ngscaffolding"
+		},
+		{
+			"path": "..\\dataGrid"
+		}
+	],
+		"settings": {
+		"prettier.singleQuote": true,
+		"editor.find.autoFindInSelection": true
+	}
+}
