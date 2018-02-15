@@ -6,6 +6,7 @@ ECHO =============
 cd ..\core
 git pull
 call yarn
+call yarn run version
 cd .\src
 call yarn link
 cd ..\..
@@ -17,6 +18,7 @@ ECHO =====================
 cd .\inputbuilder
 git pull
 call yarn
+call yarn run version
 call yarn link @ngscaffolding/core
 cd .\src
 call yarn link
@@ -29,6 +31,7 @@ ECHO =================
 cd .\datagrid
 git pull
 call yarn
+call yarn run version
 call yarn link @ngscaffolding/core
 call yarn link @ngscaffolding/inputbuilder
 cd .\src
@@ -42,6 +45,7 @@ ECHO =================
 cd .\demoapp
 git pull
 call yarn
+call yarn run version
 call yarn link @ngscaffolding/core
 call yarn link @ngscaffolding/inputbuilder
 call yarn link @ngscaffolding/datagrid
@@ -56,6 +60,7 @@ ECHO =================
 cd .\host
 git pull
 call yarn
+call yarn run version
 call yarn link @ngscaffolding/core
 call yarn link @ngscaffolding/inputbuilder
 call yarn link @ngscaffolding/datagrid
