@@ -1,3 +1,5 @@
+rmdir %LOCALAPPDATA%\Yarn\config\link\@ngscaffolding /s/q
+
 rmdir ..\core\node_modules /s/q
 del ..\core\package-lock.json
 rmdir ..\inputbuilder\node_modules /s/q
