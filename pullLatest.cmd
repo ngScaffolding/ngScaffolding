@@ -1,6 +1,8 @@
 git pull
 cd ..\aspnet
 git pull
+cd ..\nodeapi
+git pull
 cd ..\core
 git pull
 cd ..\inputbuilder

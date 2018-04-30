@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "..\\ngscaffolding"
+		},
+		{
+			"path": "C:\\Users\\dbaines\\source\\ngscaffolding\\nodeApi"
 		}
 	],
 		"settings": {
