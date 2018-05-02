@@ -3,6 +3,8 @@ cd ..\aspnet
 git pull
 cd ..\nodeapi
 git pull
+cd ..\models
+git pull
 cd ..\core
 git pull
 cd ..\inputbuilder
