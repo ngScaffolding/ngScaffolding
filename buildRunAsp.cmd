@@ -1,3 +1,5 @@
+cmd.exe /cDROPDatabases.cmd
+
 cd ..\aspnet
 dotnet publish
 
