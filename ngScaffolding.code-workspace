@@ -16,16 +16,16 @@
 			"path": "..\\nodeApi"
 		},
 		{
-			"path": "C:\\Users\\dabaines\\source\\ngScaffolding\\data_API"
+			"path": "..\\data_API"
 		},
 		{
-			"path": "C:\\Users\\dabaines\\source\\ngScaffolding\\data_mongoDB"
+			"path": "..\\data_mongoDB"
 		},
 		{
-			"path": "C:\\Users\\dabaines\\source\\ngScaffolding\\data_MSSQL"
+			"path": "..\\data_MSSQL"
 		},
 		{
-			"path": "C:\\Users\\dabaines\\source\\ngScaffolding\\data_MySQL"
+			"path": "..\\data_MySQL"
 		}
 	],
 		"settings": {
