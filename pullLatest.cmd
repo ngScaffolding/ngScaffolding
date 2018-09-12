@@ -17,6 +17,9 @@ git pull
 cd ..\host
 git pull
 
+cd ..\nodeOAuth_MongoDB
+git pull
+
 cd ..\data_MySQL
 git pull
 

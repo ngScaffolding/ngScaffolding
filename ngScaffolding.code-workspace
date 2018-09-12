@@ -16,16 +16,7 @@
 			"path": "..\\nodeApi"
 		},
 		{
-			"path": "..\\data_API"
-		},
-		{
-			"path": "..\\data_mongoDB"
-		},
-		{
-			"path": "..\\data_MSSQL"
-		},
-		{
-			"path": "..\\data_MySQL"
+			"path": "..\\nodeOAuth_MongoDB"
 		}
 	],
 		"settings": {
