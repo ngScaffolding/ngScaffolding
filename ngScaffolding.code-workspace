@@ -16,7 +16,7 @@
 			"path": "..\\nodeApi"
 		},
 		{
-			"path": "..\\nodeOAuth_MongoDB"
+			"path": "..\\nodeOAuth"
 		}
 	],
 		"settings": {
