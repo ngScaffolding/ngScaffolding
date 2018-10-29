@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "..\\nodeOAuth"
+		},
+		{
+			"path": "..\\mobile"
 		}
 	],
 		"settings": {
