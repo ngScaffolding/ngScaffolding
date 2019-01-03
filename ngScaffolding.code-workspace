@@ -24,6 +24,8 @@
 	],
 		"settings": {
 		"prettier.singleQuote": true,
-		"editor.find.autoFindInSelection": true
+		"editor.find.autoFindInSelection": true,
+		"editor.codeLens": false,
+		"merge-conflict.codeLens.enabled": false
 	}
 }
