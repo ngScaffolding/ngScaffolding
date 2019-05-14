@@ -22,6 +22,7 @@
 		"settings": {
 		"prettier.singleQuote": true,
 		"editor.codeLens": false,
-		"merge-conflict.codeLens.enabled": false
+		"merge-conflict.codeLens.enabled": false,
+		"prettier.printWidth": 160
 	}
 }
