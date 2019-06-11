@@ -23,6 +23,10 @@
 		"prettier.singleQuote": true,
 		"editor.codeLens": false,
 		"merge-conflict.codeLens.enabled": false,
-		"prettier.printWidth": 160
+		"prettier.printWidth": 280,
+		"workbench.editor.revealIfOpen": true,
+		"javascript.format.insertSpaceAfterConstructor": true,
+		"javascript.preferences.quoteStyle": "single",
+		"typescript.format.insertSpaceAfterTypeAssertion": true
 	}
 }
