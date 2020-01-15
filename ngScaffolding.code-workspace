@@ -17,8 +17,7 @@
 		}
 	],
 		"settings": {
-		"prettier.singleQuote": true,
-		"editor.codeLens": false,
+			"editor.codeLens": false,
 		"merge-conflict.codeLens.enabled": false,
 		"prettier.printWidth": 280,
 		"workbench.editor.revealIfOpen": true,
